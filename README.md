@@ -1,2 +1,20 @@
 # DnA_QuerySquad_Project
-Data &amp; APpplications course project repo
+
+## Course : Data &amp; Appplications 
+## Course Project
+
+### Introduction
+
+### Assumptions
+
+### Users & Applications
+
+### Database Schema
+
+### Database model
+
+### DB Functionalities
+
+### Interconnectivity
+
+### Conclusion
