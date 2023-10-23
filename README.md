@@ -1,4 +1,4 @@
-# DnA_QuerySquad_Project
+# D&A_QuerySquad_Project
 
 ## Course : Data &amp; Appplications 
 ## Course Project
