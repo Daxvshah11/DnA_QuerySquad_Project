@@ -1,7 +1,9 @@
-# D&A_QuerySquad_Project
+# Portfolio Management System
 
+
+## D&A_QuerySquad_Project
 ## Course : Data &amp; Appplications 
-## Portfolio Management System
+
 
 ### Introduction
 
